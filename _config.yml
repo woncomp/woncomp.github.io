@@ -8,6 +8,12 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+# ------------------ Polyglot (Multilingual) ------------------
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "assets", "public"]
+parallel_localization: true
+
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Shanghai
 

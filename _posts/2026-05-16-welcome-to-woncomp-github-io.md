@@ -5,6 +5,7 @@ categories: [notes]
 tags: [jekyll, chirpy, github-pages]
 description: First post template for the new Chirpy-based Jekyll blog.
 pin: true
+lang: en
 ---
 
 This is the first post in the new site.
